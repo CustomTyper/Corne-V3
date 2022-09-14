@@ -1,2 +1,2 @@
-# Corne-V1
-Corne V1 Keyboard guía de montaje 
+# Corne-V3
+Corne V3 Keyboard guía de montaje 
